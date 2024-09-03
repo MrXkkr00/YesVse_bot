@@ -1,0 +1,5 @@
+
+BOT_TOKEN = "7466680182:AAFZpedC1bzuG-zxdbMs5LqW7gH9rLrAT7s"
+ADMINS = ["7010118152"]
+IP = "localhost"
+group_id = "-1002157475452"
